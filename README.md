@@ -1,4 +1,6 @@
-# ScrollClick
+<p align="center"><img src="docs/icon.png" width="128" alt="ScrollClick icon"></p>
+
+<h1 align="center">ScrollClick</h1>
 
 A tiny macOS menu-bar app that makes scrolling feel like turning a notched dial: every few points of scroll plays a soft click, and (on Force Touch trackpads) taps a matching haptic.
 
@@ -13,6 +15,10 @@ Inspired by [Snick](https://trysnick.xyz/). This is an independent, open-source 
 - Scrolling up sounds slightly higher than scrolling down.
 - Works with trackpads and mouse wheels, with an optional momentum-scroll toggle.
 - Volume slider, Open at Login, universal binary (Apple Silicon + Intel), macOS 13+.
+
+## Sounds
+
+![Waveforms of the 7 click sounds](docs/sounds.png)
 
 ## Install
 
